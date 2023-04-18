@@ -11,7 +11,7 @@ import com.spring.bioMedical.repository.AppointmentRepository;
 
 /**
  * 
- * @author Soumyadip Chowdhury
+ * @author Soumyadip Chowdhurry
  * @github soumyadip007
  *
  */
